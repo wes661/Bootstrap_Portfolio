@@ -1,0 +1,35 @@
+img{
+	float: left;
+	margin-right: 15px;
+	border-radius: 15px;
+}
+
+
+
+.box1{
+	padding-right: 75px;
+}
+
+.connect-images{
+	padding-left: 60px;
+	padding-bottom: 80px;
+	padding-top: 20px;
+}
+
+h1{
+	margin-bottom: 50px;
+}
+
+h2{
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+}
+
+ul{
+	padding-top: 15px;
+	font-size: 20px;
+
+}
